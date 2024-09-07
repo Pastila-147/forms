@@ -1,0 +1,51 @@
+.conteiner {
+  margin-top: 200px;
+  margin-left: 200px;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: 0.3rem;
+  color: #fff;
+  background-color: #35dcd1;
+  border-color: #35dcd1;
+  cursor: pointer;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: #20d2b1;
+  border-color: #20d2b1;
+}
+
+.popover-wrapper {
+  position: relative;
+  z-index: 1000;
+  display: block;
+  max-width: 250px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: start;
+  font-size: .875rem;
+  background-color: #fff;
+  border: 1px solid rgb(157, 151, 151);
+  border-radius: 0.3rem;
+}
+
+.popover-title {
+  padding: 0.5rem 0.75rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #1c807b;
+  border-bottom: 1px solid #ebebeb;
+}
+
+.popover-text {
+  padding: 0.5rem 0.75rem;
+  color: #000;
+}
